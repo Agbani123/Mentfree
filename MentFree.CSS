@@ -1,0 +1,61 @@
+.header {
+    width: 513px;
+    height: 68px;
+    display: flex;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+.profile img {
+    width: 21px;
+    height: 27px;
+    margin-right: 10px
+
+}
+
+.menu-button {
+    width: 311px;
+    height: 19px;
+    background-color: #2b2b2b
+    color: white;
+    text-align: center;
+    line-height: 19px;
+
+
+}
+
+.greeting p {
+    width: 148px;
+    height: 19px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    font-weight: 500; /* Medium */
+
+}
+
+.find-workout {
+    width: 163px;
+    height: 60px;
+    font-family: 'Inter', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+
+}
+
+.search-bar{
+    width: 444.73px;
+    height: 53px;
+    font-family: 'Inter', sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.todays-activity{
+    width: 
+}
+
+
+/* Apply similar styles to other elements as described in your requirements */
+
+/* Use classes or IDs to style specific elements */
+
